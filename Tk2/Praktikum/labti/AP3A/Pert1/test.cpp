@@ -23,4 +23,8 @@ int main()
     cout << angka1 << " bagi " << angka2 << " = " << bagi << endl;
 
     return 0;
+    
 }
+
+
+        

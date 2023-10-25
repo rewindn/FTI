@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int pilih;
+int pilih, bks;
 void film(int pilih)
 {
 
@@ -15,7 +15,7 @@ void film(int pilih)
 int main()
 
 {
-    int pilih int bks;
+
     cout << "--------------------------Daftar Film Hari Ini------------------------------" << endl;
     cout << "1. XXI" << endl;
     cout << "1. CGV" << endl;

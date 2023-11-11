@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/mnt/AE56E58256E54C21/about faris/FTI/Tk2/Praktikum/labti/AP3A/testing M0",
-      "program": "/mnt/AE56E58256E54C21/about faris/FTI/Tk2/Praktikum/labti/AP3A/testing M0/build/Debug/outDebug",
+      "cwd": "/mnt/AE56E58256E54C21/about faris/FTI/Tk2/Praktikum/labti/AP3A/Pert3",
+      "program": "/mnt/AE56E58256E54C21/about faris/FTI/Tk2/Praktikum/labti/AP3A/Pert3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
